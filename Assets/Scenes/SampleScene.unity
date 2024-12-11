@@ -1061,7 +1061,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4209941127266747729, guid: 806e03bd26a731848b7d3f733d743c38, type: 3}
       propertyPath: m_text
-      value: Ask me anything..
+      value: '   Ask me anything..'
       objectReference: {fileID: 0}
     - target: {fileID: 4505056286630081334, guid: 806e03bd26a731848b7d3f733d743c38, type: 3}
       propertyPath: m_Name
