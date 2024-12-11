@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Chat : MonoBehaviour
 {
-    [HideInInspector] public string Owner = "Egor_Zhuchkov"; // Default chat owner (user)
+    [HideInInspector] public string Owner = "User"; // Default chat owner (user)
     public MessageContainer Container;
 
     public void ReceiveMessage(Message message) =>
